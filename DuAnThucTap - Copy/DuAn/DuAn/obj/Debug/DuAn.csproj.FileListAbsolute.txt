@@ -1,0 +1,32 @@
+D:\DuAnThucTap\DuAn\DuAn\bin\Debug\DuAn.exe.config
+D:\DuAnThucTap\DuAn\DuAn\bin\Debug\DuAn.exe
+D:\DuAnThucTap\DuAn\DuAn\bin\Debug\DuAn.pdb
+D:\DuAnThucTap\DuAn\DuAn\obj\Debug\DuAn.csproj.AssemblyReference.cache
+D:\DuAnThucTap\DuAn\DuAn\obj\Debug\DuAn.Properties.Resources.resources
+D:\DuAnThucTap\DuAn\DuAn\obj\Debug\DuAn.csproj.GenerateResource.cache
+D:\DuAnThucTap\DuAn\DuAn\obj\Debug\DuAn.csproj.CoreCompileInputs.cache
+D:\DuAnThucTap\DuAn\DuAn\obj\Debug\DuAn.exe
+D:\DuAnThucTap\DuAn\DuAn\obj\Debug\DuAn.pdb
+D:\DuAnThucTap\DuAn\DuAn\bin\Debug\Guna.UI.dll
+D:\DuAnThucTap\DuAn\DuAn\obj\Debug\DuAn.csproj.CopyComplete
+D:\DuAnThucTap\DuAn\DuAn\obj\Debug\DuAn.Login.resources
+D:\DuAnThucTap\DuAn\DuAn\obj\Debug\DuAn.Main.resources
+D:\DuAnThucTap\DuAn\DuAn\obj\Debug\DuAn.Data.resources
+D:\DuAnThucTap\DuAn\DuAn\obj\Debug\DuAn.Home.resources
+D:\DuAnThucTap - Copy\DuAn\DuAn\bin\Debug\DuAn.exe.config
+D:\DuAnThucTap - Copy\DuAn\DuAn\bin\Debug\DuAn.exe
+D:\DuAnThucTap - Copy\DuAn\DuAn\bin\Debug\DuAn.pdb
+D:\DuAnThucTap - Copy\DuAn\DuAn\bin\Debug\Guna.UI.dll
+D:\DuAnThucTap - Copy\DuAn\DuAn\obj\Debug\DuAn.csproj.AssemblyReference.cache
+D:\DuAnThucTap - Copy\DuAn\DuAn\obj\Debug\DuAn.Data.resources
+D:\DuAnThucTap - Copy\DuAn\DuAn\obj\Debug\DuAn.Home.resources
+D:\DuAnThucTap - Copy\DuAn\DuAn\obj\Debug\DuAn.Login.resources
+D:\DuAnThucTap - Copy\DuAn\DuAn\obj\Debug\DuAn.Main.resources
+D:\DuAnThucTap - Copy\DuAn\DuAn\obj\Debug\DuAn.Properties.Resources.resources
+D:\DuAnThucTap - Copy\DuAn\DuAn\obj\Debug\DuAn.csproj.GenerateResource.cache
+D:\DuAnThucTap - Copy\DuAn\DuAn\obj\Debug\DuAn.csproj.CoreCompileInputs.cache
+D:\DuAnThucTap - Copy\DuAn\DuAn\obj\Debug\DuAn.csproj.CopyComplete
+D:\DuAnThucTap - Copy\DuAn\DuAn\obj\Debug\DuAn.exe
+D:\DuAnThucTap - Copy\DuAn\DuAn\obj\Debug\DuAn.pdb
+D:\DuAnThucTap - Copy\DuAn\DuAn\obj\Debug\DuAn.Views.resources
+D:\DuAnThucTap - Copy\DuAn\DuAn\obj\Debug\DuAn.Salary.resources
